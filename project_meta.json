@@ -1,10 +1,17 @@
 {
-  "seq": 24,
   "title": "Phishing Awareness and Simulation Framework",
+  "old_slug": "phishing-awareness-and-simulation-framework",
   "slug": "phishing-awareness-and-simulation-framework",
   "folder": "Phishing_Awareness_And_Simulation_Framework",
-  "kind": "identity_human",
-  "body_words": 235,
+  "kind": "identity",
+  "body_words": 305,
+  "source": "MICT Academic",
   "project_id": "Academic Project 16",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
